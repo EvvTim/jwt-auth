@@ -1,1 +1,1 @@
-# jwt-auth-mongo-nodejs
+# jwt-auth
