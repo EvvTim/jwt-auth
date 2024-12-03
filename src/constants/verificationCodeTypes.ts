@@ -1,5 +1,5 @@
 const enum VerificationCodeTypes {
   EMAIL = "email_verification",
-  PHONE = "phone_verification",
+  PASSWORD_RESET = "password_reset",
 }
 export default VerificationCodeTypes;
